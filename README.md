@@ -36,7 +36,7 @@
         <img src="new_product4.jpg" alt="Produk 4" />
       </div>
       <div class="photo" onclick="openWhatsApp('Product 5')">
-        <img src="new_product.jpg" alt="Produk 5" />
+        <img src="new_product5.jpg" alt="Produk 5" />
       </div>
       <div class="photo" onclick="openWhatsApp('Product 6')">
         <img src="new_product6.jpg" alt="Produk 6" />

@@ -51,10 +51,10 @@
 
     <script>
       function openWhatsApp(product) {
-        const phoneNumber = "085609413125";
+        const phoneNumber = "+62 856-0941-3125";
         const message = `Hello, saya ingin memesan: ${product}`;
         window.open(
-          `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`,
+          `https://wa.me/${+62 856-0941-3125}?text=${encodeURIComponent(message)}`,
           "_blank"
         );
       }

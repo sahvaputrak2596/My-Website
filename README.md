@@ -16,7 +16,8 @@
       <div class="bio">
         <h2>Percetakan_Tindak_Pond</h2>
         <p>Solusi cetak mencetak Anda!
-            Cetak Box cover, Food Packaging, Paperbag, Undangan, Kalender
+            Cetak Box cover, Food Packaging, Paperbag, Undangan,
+            Kalender, Brosusr, Box Perhiasan,
             Admin : 085609413125.</p>
       </div>
     </div>
@@ -54,7 +55,7 @@
         const phoneNumber = "+62 856-0941-3125";
         const message = `Hello, saya ingin memesan: ${product}`;
         window.open(
-          `https://wa.me/${+62 856-0941-3125}?text=${encodeURIComponent(message)}`,
+          `https://wa.me/${085609413125}?text=${encodeURIComponent(message)}`,
           "_blank"
         );
       }
